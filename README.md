@@ -17,4 +17,3 @@ I am a Passionate designer looking to fill a UI/UX design position. Hoping to co
 ## Conflicts
 
 This section represents code on the server that isn't on the local repository.
-
