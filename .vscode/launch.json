@@ -5,12 +5,15 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "type": "chrome",
+            "type": "node",
             "request": "launch",
-            "name": "Launch Chrome",
-            "url": "http://localhost:8080",
-            "webRoot": "${workspaceFolder}"
+            "name": "Launch Program",
+            "program": "${workspaceFolder}/demo2/w8a/index.js",
+            "skipFiles": [
+                "<node_internals>/**"
+            ]
         },
+     
         {
             "type": "node",
             "request": "launch",
@@ -36,7 +39,7 @@
         {
             "type": "node",
             "request": "launch",
-            "name": "Launch W4 For Demo",
+            "name": "Launch w8A Demo",
             "program": "${workspaceFolder}/ice/w4/src/for.js",
             "skipFiles": [
                 "<node_internals>/**"
