@@ -1,0 +1,80 @@
+[
+  {
+    "question": "In JavaScript, a constructor is a special function called when the new keyword is used to create an object instance.",
+    "answers": 
+    [
+      {
+        "text": "False",
+        "correct": false
+      },
+      {
+        "text": "True",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "In JavaScript, the keyword class is used to declare an object with named functions and properties.",
+    "answers": 
+    [
+      {
+        "text": "False",
+        "correct": false
+      },
+      {
+        "text": "True",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "What Array method adds an additional value to the end of an array?",
+    "answers": 
+    [
+      {
+        "text": "filter()",
+        "correct": false
+      },
+      {
+        "text": "pop()",
+        "correct": false
+      },
+      {
+        "text": "push()",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "The Component design pattern means objects that act as components take care of themselves.",
+    "answers": 
+    [
+      {
+        "text": "False",
+        "correct": false
+      },
+      {
+        "text": "True",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "What command is used to build the current code and start the React development server?",
+    "answers": 
+    [
+      {
+        "text": "npx create-react-app",
+        "correct": false
+      },
+      {
+        "text": "npm start",
+        "correct": true
+      },
+      {
+        "text": "npm compile",
+        "correct": false
+      }
+    ]
+  }
+]
